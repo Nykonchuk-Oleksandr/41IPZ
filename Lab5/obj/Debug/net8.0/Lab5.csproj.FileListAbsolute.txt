@@ -1,0 +1,14 @@
+E:\new folder\42ІПЗ завдання\січкаренко\Lab5\obj\Debug\net8.0\Lab5.GeneratedMSBuildEditorConfig.editorconfig
+E:\new folder\42ІПЗ завдання\січкаренко\Lab5\obj\Debug\net8.0\Lab5.AssemblyInfoInputs.cache
+E:\new folder\42ІПЗ завдання\січкаренко\Lab5\obj\Debug\net8.0\Lab5.AssemblyInfo.cs
+E:\new folder\42ІПЗ завдання\січкаренко\Lab5\obj\Debug\net8.0\Lab5.csproj.CoreCompileInputs.cache
+E:\new folder\42ІПЗ завдання\січкаренко\Lab5\bin\Debug\net8.0\Lab5.exe
+E:\new folder\42ІПЗ завдання\січкаренко\Lab5\bin\Debug\net8.0\Lab5.deps.json
+E:\new folder\42ІПЗ завдання\січкаренко\Lab5\bin\Debug\net8.0\Lab5.runtimeconfig.json
+E:\new folder\42ІПЗ завдання\січкаренко\Lab5\bin\Debug\net8.0\Lab5.dll
+E:\new folder\42ІПЗ завдання\січкаренко\Lab5\bin\Debug\net8.0\Lab5.pdb
+E:\new folder\42ІПЗ завдання\січкаренко\Lab5\obj\Debug\net8.0\Lab5.dll
+E:\new folder\42ІПЗ завдання\січкаренко\Lab5\obj\Debug\net8.0\refint\Lab5.dll
+E:\new folder\42ІПЗ завдання\січкаренко\Lab5\obj\Debug\net8.0\Lab5.pdb
+E:\new folder\42ІПЗ завдання\січкаренко\Lab5\obj\Debug\net8.0\Lab5.genruntimeconfig.cache
+E:\new folder\42ІПЗ завдання\січкаренко\Lab5\obj\Debug\net8.0\ref\Lab5.dll
